@@ -60,3 +60,15 @@ button:hover {
     color: #fff;
     background: #0055a5;
 }
+
+.google-sheet {
+    width: 100%;
+    height: 600px; /* ปรับความสูงตามต้องการ */
+    overflow: hidden;
+    margin-top: 20px; /* ระยะห่างจากเนื้อหาอื่น */
+}
+iframe {
+    width: 100%;
+    height: 100%;
+    border: none; /* เอาขอบออกเพื่อให้ดูสะอาดตา */
+}
