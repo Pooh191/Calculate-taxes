@@ -72,3 +72,12 @@ iframe {
     height: 100%;
     border: none; /* เอาขอบออกเพื่อให้ดูสะอาดตา */
 }
+
+footer {
+    margin-top: 40px;
+    padding: 20px;
+    background: #0055a5;
+    color: #fff;
+    text-align: center;
+    border-radius: 4px;
+}
